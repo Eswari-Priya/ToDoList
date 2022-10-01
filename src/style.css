@@ -1,0 +1,39 @@
+
+h1,
+p {
+  font-family: Lato;
+}
+
+#cardBody {
+  min-height: 80vh;
+}
+
+button {
+  border-radius: 50%;
+  background-color:#CBBDE2 ;
+}
+
+#Done{
+  border-radius: 10%;
+  margin-top: 13px;
+  margin-left: -20px;
+  margin-right: 10px;
+}
+#title{
+  background-color: #563d7c;
+  color: azure;
+}
+
+.card-header{
+  background-color: #CBBDE2; 
+  color: #563d7c;
+}
+
+#root{
+  background-color: rgba(86,61,124,.15);
+}
+
+input{
+  width:15rem;
+  margin-left: -10px;
+}
